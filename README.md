@@ -183,12 +183,10 @@ main_data/final_dataset.pkl
 project_folder/
 │
 ├── original_data/
-│   └── vsv_cases.csv
-│
-├── generated_files/
-│   ├── geometry_file.csv
-│   ├── us_mx_combined_shapefile.shp
-│   └── centroids_us_mx.csv
+│   └── vsv_county_noPII.csv
+│   └── all_counties_list.txt
+├── src/
+│   └──**all jupyter notebooks**
 │
 ├── main_data/
 │   ├── base_file.pkl
@@ -198,6 +196,9 @@ project_folder/
 │
 ├── supporting_files/
 │   └── county2municodes_ultimate_dict.json
+│   └── CAT_ENT_MUN_POB_ENOE 062021.xlsx
+│   └── united-states.xlsx
+│   └── state_to_code.txt
 ```
 
 ---
