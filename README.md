@@ -211,7 +211,6 @@ Recommended environment:
 Python 3.9+
 geopandas
 pandas
-netCDF4
 numpy
 xarray
 matplotlib
