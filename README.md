@@ -52,6 +52,7 @@ A CSV containing:
 - Serotype  
 - Other VSV metadata  
 
+Will be provided upon request
 Place this file in:  
 `original_data/`
 
