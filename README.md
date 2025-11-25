@@ -166,8 +166,8 @@ Run: **`80_integrate_sp_ser.ipynb`**
 
 A master dataframe containing:
 
-| COUNTY_MUNI_CODE | Year | Month | Weather Features | VSV Case Count | Serotype | Species |
-|------------------|-------|--------|------------------|----------------|----------|----------|
+| COUNTY_MUNI_CODE | date | Weather Features | VSV Case Count | Serotype | Species |
+|------------------|------|------------------|----------------|----------|----------|
 
 Saved as:
 
