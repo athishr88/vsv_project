@@ -26,12 +26,14 @@ This pipeline is useful for:
 ## **Input Files Required**
 
 ### 1. **Counties of Interest**
-A simple text file containing a list of county names. Example format:
+A simple text file containing a list of county codes. Example format:
 
 ```
-Los Angeles County, CA
-Hidalgo County, TX
-Yuma County, AZ
+MX01001
+MX01002
+MX01003
+MX01004
+MX01005
 ...
 ```
 
